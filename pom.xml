@@ -24,7 +24,7 @@
          <id>snapshots</id>
          <!-- Update the url of nexus snapshot URL -->
          <url>http://3.143.222.226:8081/repository/maven-snapshots/</url>
- </snapshotRepositoryrepository>
+ </snapshotRepository>
 </distributionManagement>
 
   <dependencies>
