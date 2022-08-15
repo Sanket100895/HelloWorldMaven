@@ -24,7 +24,7 @@
   </repository>
   </distributionManagement>
     
-<!-- distributionManagement>
+<!-- <distributionManagement>
 <repository>
          <id>releases</id>
          <!-- Update the url of nexus releases URL -->
@@ -35,7 +35,7 @@
          <!-- Update the url of nexus snapshot URL -->
          <url>http://3.143.222.226:8081/repository/maven-snapshots/</url>
  </snapshotRepository>
-</distributionManagement -->
+</distributionManagement> -->
 
   <dependencies>
     <dependency>
